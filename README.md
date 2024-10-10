@@ -1,8 +1,11 @@
 # Customers' feedback Sentiment 
 
+
 ### classification problem: using the reviews of customers(cx) predict the score given by cx from 1:5.
+
 preprocessing:
-              Cleaning the data and balancing the classes, preprocessing the data using stemming and then vectorizing the data.
+              Cleaning the data and balancing the classes, preprocessing the data using stemming, and then vectorizing the data.
+              
 model:
               Different models were tried and the model with the best accuarcy on the training set is an ensemble of SVC, Logistic regrission and XGBClassifier.
 
