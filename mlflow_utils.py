@@ -1,8 +1,6 @@
 import mlflow
 from typing import Any
-
 import pandas as pd
-
 from sklearn.datasets import make_classification
 
 
