@@ -78,3 +78,6 @@ This project focuses on analyzing customer feedback data to predict sentiment sc
   - Further exploring deep learning models to improve generalization, including experimenting with **neural networks** for better performance.
 
 ---
+
+
+Special thanks to our instructor and supervisor, Eng. Seif Koretum, for his invaluable guidance and support throughout this project.
