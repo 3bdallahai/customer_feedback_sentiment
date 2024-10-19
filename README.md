@@ -80,4 +80,4 @@ This project focuses on analyzing customer feedback data to predict sentiment sc
 ---
 
 
-Special thanks to our instructor and supervisor, Eng. Seif Koretum, for his invaluable guidance and support throughout this project.
+Special thanks to our instructor and supervisor, **Eng. Seif Koretum**, for his invaluable guidance and support throughout this project.
