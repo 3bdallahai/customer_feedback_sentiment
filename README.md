@@ -72,9 +72,9 @@ This project focuses on analyzing customer feedback data to predict sentiment sc
 
 ### Results and Next Steps
 
-- While the model achieved **81% accuracy** on the training set, its **56% accuracy** on the test set indicated overfitting. Future steps include:
-  - Implementing regularization techniques to mitigate overfitting.
-  - Exploring deep learning models to improve generalization, including experimenting with **neural networks** for better performance.
+- While the model achieved **81% accuracy** on the training set, its **56% accuracy** on the test set indicated overfitting. After this, a **pretrained BERT model** was also applied, but the results were still **56%** on the test set, leading us to realize that the issue likely lies in the data itself. Due to time constraints, we continued with the same accuracy for the final deliverables.
+- Future steps include:
+  - Investigating and improving the data quality or collecting more diverse data.
+  - Further exploring deep learning models to improve generalization, including experimenting with **neural networks** for better performance.
 
 ---
-
